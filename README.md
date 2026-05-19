@@ -1,9 +1,6 @@
 # DecodeLabs-Internship
-
 ## To-Do List Project
-
 This is a simple Python To-Do List application.
-
 ### Features:
 - Add tasks
 - View tasks
